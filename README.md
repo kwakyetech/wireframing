@@ -81,3 +81,33 @@ The wireframes used in the [Project Airbnb Figma file](https://www.figma.com/des
 - The design includes real content, defined typography, color schemes, buttons, and UI components.
 - It reflects the visual identity and layout of the final product.
 - The purpose is to clearly communicate the design intent to stakeholders and developers.
+
+## Popular Wireframing Tools
+
+Wireframing tools help designers and developers visualize and plan user interfaces efficiently. Below are some of the most popular tools used in the industry:
+
+- **Figma**  
+- **Sketch**  
+- **Adobe XD**  
+- **Balsamiq**  
+- **Axure RP**  
+- **InVision Studio**
+
+### Figma: A Recommended Tool
+
+**Figma** is a powerful, cloud-based design tool widely used for wireframing, UI/UX design, and prototyping.
+
+**Key Features:**
+- Real-time collaboration with team members
+- Easy to share designs via web links
+- Component-based design system for reusability
+- Integrated design, prototype, and feedback workflow
+- Works directly in the browser (no installation required)
+
+**Why Figma is Useful for Wireframing:**
+- Allows designers to quickly sketch ideas and iterate
+- High-fidelity wireframes can be created and linked to other design stages
+- Designers, developers, and stakeholders can comment and collaborate in real time
+- Integration with tools like FigJam makes it easy to gather ideas and feedback
+
+Figma stands out for its flexibility, ease of use, and collaborative capabilities, making it an excellent choice for wireframing in modern design workflows.
