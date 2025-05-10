@@ -111,3 +111,26 @@ Wireframing tools help designers and developers visualize and plan user interfac
 - Integration with tools like FigJam makes it easy to gather ideas and feedback
 
 Figma stands out for its flexibility, ease of use, and collaborative capabilities, making it an excellent choice for wireframing in modern design workflows.
+
+## Benefits of Wireframing in Software Development
+
+Wireframing is a crucial step in the software development lifecycle (SDLC), especially during the planning and design phases. It acts as a visual blueprint that helps teams align their vision before any development begins.
+
+### Key Benefits:
+
+- **Clarity in Design Direction**  
+  Wireframes provide a clear representation of the layout and functionality of the interface. This helps designers, developers, and stakeholders understand the structure and user flow early in the process.
+
+- **Improved Collaboration and Communication**  
+  With wireframes, cross-functional teams can visually discuss ideas and provide feedback. For example, in the AirBnB clone project, both the customer and host interfaces can be discussed and refined based on a shared visual reference.
+
+- **Early Detection of Issues**  
+  Wireframes highlight usability issues before coding begins. This saves time and cost, as changes are easier to implement at the wireframing stage than in the development phase.
+
+- **Efficient Scope Management**  
+  Developers use wireframes to understand the features required. For example, a checkout page wireframe shows clearly the elements needed (e.g., form fields, payment options), ensuring nothing is overlooked.
+
+- **Facilitates User-Centred Design**  
+  Wireframes allow for early user testing and validation of navigation and layout. This ensures the final product meets user expectations and improves the overall experience.
+
+By using tools like Figma to wireframe early, software teams can build faster, collaborate better, and reduce the risk of rework later in the project.
