@@ -38,3 +38,46 @@ Wireframes may also include basic representations of interactive features such a
 **Example**: On a checkout page, wireframes can indicate a form for entering payment details, a “Confirm Booking” button, and an order summary panel.
 
 Each of these elements ensures that the final design aligns with both user needs and project requirements.
+
+## Types of Wireframes
+
+Wireframes are simplified visual representations of a user interface used in the early stages of product design. There are two main types of wireframes, each with its purpose and level of detail:
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are basic sketches or digital layouts that focus on the structure and functionality of the interface without much detail or design elements.
+
+**Characteristics:**
+- Simple shapes and outlines
+- No color or typography details
+- Placeholder text and images
+- Emphasis on layout and interaction
+
+**When to Use:**
+- During brainstorming and early planning
+- To get quick feedback from stakeholders
+- When exploring multiple layout options
+
+### 2. High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and visually close to the final product. They often include actual fonts, colors, icons, and real or near-real content.
+
+**Characteristics:**
+- Accurate spacing and alignment
+- Real fonts, colors, and images
+- Interaction elements like buttons, input fields
+- Represents the final UI structure and aesthetics
+
+**When to Use:**
+- During detailed design stages
+- For developer handoff
+- In usability testing and presentations
+
+---
+
+## Type of Wireframe Used Here
+
+The wireframes used in the [Project Airbnb Figma file](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) are **high-fidelity wireframes**.
+
+**Reason:**
+- The design includes real content, defined typography, color schemes, buttons, and UI components.
+- It reflects the visual identity and layout of the final product.
+- The purpose is to clearly communicate the design intent to stakeholders and developers.
